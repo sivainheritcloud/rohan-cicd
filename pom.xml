@@ -34,7 +34,7 @@
 						<muleVersion>4.5.2</muleVersion>
 						<uri>https://anypoint.mulesoft.com</uri>
                                                 <target>rohan-server1</target>
-                                                <applicationName>custom-sfdc-sapii</applicationName>
+                                                <applicationName>custom-sfdc-sapi</applicationName>
 						<targetType>server</targetType>
                                                  <username>janasena1</username>
                                                    <password>Siva@193654</password>
